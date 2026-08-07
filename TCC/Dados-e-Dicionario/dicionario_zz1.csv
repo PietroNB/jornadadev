@@ -1,0 +1,6 @@
+Tabela;Campo;Tipo;Tamanho;Decimal;Contexto;Descrição;Validação
+ZZ1;ZZ1_FILIAL;Caracter;2;0;Real;Filial;
+ZZ1;ZZ1_COD;Caracter;6;0;Real;Codigo;
+ZZ1;ZZ1_FORNEC;Caracter;6;0;Real;Fornecedor;ExistCpo("SA2")
+ZZ1;ZZ1_LOJA;Caracter;2;0;Real;Loja;
+ZZ1;ZZ1_TOLERA;Numerico;5;2;Real;Tolerancia;
